@@ -1,0 +1,16 @@
+{
+  "name": "zksync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.5.4",
+    "zksync": "^0.12.0-alpha.3"
+  }
+}
